@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HelloWorld
+title: Hello World
 ---
 
 {{ page.title }}
